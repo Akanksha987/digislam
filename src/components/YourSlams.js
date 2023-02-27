@@ -26,7 +26,7 @@ const YourSlams = () => {
         <div className="grid-book-element">
           <div className="ImageHolder">
             <img src={profileImage} height={80} alt="displayImage" />
-            <h1>Golu</h1>
+            <h1>Akku</h1>
           </div>
         </div>
       </div>
